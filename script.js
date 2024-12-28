@@ -34,6 +34,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 Object.values(row).forEach(cellData => {
                     const td = document.createElement('td');
                     td.textContent = cellData;
+                    td.style.textAlign = "left"; // Align text to the left for consistency with column titles
+                    td.style.padding = "8px"; // Add padding for spacing
                     tr.appendChild(td);
                 });
 

@@ -83,7 +83,7 @@ ol {
 }
 
 ol li {
-    margin: 5px 0;
+    margin: auto;
 }
 
 .file-link {
@@ -93,6 +93,28 @@ ol li {
 
 .file-link:hover {
     text-decoration: underline;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 1rem;
+}
+
+table th, table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+}
+
+table th {
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+table tr:nth-child(even) {
+    background-color: #f9f9f9;
 }
 
 footer {
