@@ -1,26 +1,30 @@
 [
     {
-        "presenter": "TBD",
-        "topic": "TBD",
         "date": "January 9, 2025",
-        "location": "223-406"
+        "location": "223-406",
+        "presenter": "TBD",
+        "topic": "TBD"
+
     },
     {
-        "presenter": "TBD",
-        "topic": "TBD",
         "date": "January 23, 2025",
-        "location": "223-406"
+        "location": "223-406",
+        "presenter": "TBD",
+        "topic": "TBD"
+
     },
     {
-        "presenter": "TBD",
-        "topic": "TBD",
         "date": "February 6, 2025",
-        "location": "223-406"
+        "location": "223-406",
+        "presenter": "TBD",
+        "topic": "TBD"
+
     },
     {
-        "presenter": "TBD",
-        "topic": "TBD",
         "date": "February 20, 2025",
-        "location": "223-406"
+        "location": "223-406",
+        "presenter": "TBD",
+        "topic": "TBD"
+
     }
 ]
