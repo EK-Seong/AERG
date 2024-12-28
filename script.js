@@ -39,6 +39,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 tableBody.appendChild(tr);
             });
+
+            // Apply table layout styling
+            const table = document.querySelector('#schedule-table');
+            table.style.borderCollapse = "collapse";
+            table.style.width = "100%";
         })
         .catch(error => {
             console.error('Error fetching schedule data:', error);
