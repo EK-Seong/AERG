@@ -16,4 +16,31 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
     });
+
+    // Fetch schedule data from an external JSON file
+    fetch('schedule.json')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            return response.json();
+        })
+        .then(scheduleData => {
+            const tableBody = document.querySelector('#schedule-table tbody');
+
+            scheduleData.forEach(row => {
+                const tr = document.createElement('tr');
+
+                Object.values(row).forEach(cellData => {
+                    const td = document.createElement('td');
+                    td.textContent = cellData;
+                    tr.appendChild(td);
+                });
+
+                tableBody.appendChild(tr);
+            });
+        })
+        .catch(error => {
+            console.error('Error fetching schedule data:', error);
+        });
 });
