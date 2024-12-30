@@ -1,6 +1,8 @@
 // script.js
 document.addEventListener('DOMContentLoaded', () => {
     const navLinks = document.querySelectorAll('.nav-links a');
+    const markdownFile = 'reading-list.md';
+    const contentContainer = document.getElementById('reading-content');
 
     navLinks.forEach(link => {
         link.addEventListener('click', (event) => {
@@ -51,8 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
             console.error('Error fetching schedule data:', error);
         });
     
-    const markdownFile = 'reading-list.md';
-    const contentContainer = document.getElementById('reading-content');
+
 
     // Fetch the markdown file
     fetch(markdownFile)
