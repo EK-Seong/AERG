@@ -50,4 +50,25 @@ document.addEventListener('DOMContentLoaded', () => {
         .catch(error => {
             console.error('Error fetching schedule data:', error);
         });
+    
+    const markdownFile = 'reading-list.md';
+    const contentContainer = document.getElementById('reading-content');
+
+    // Fetch the markdown file
+    fetch(markdownFile)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            return response.text();
+        })
+        .then(markdown => {
+            // Convert markdown to HTML
+            const htmlContent = marked.parse(markdown);
+            contentContainer.innerHTML = htmlContent;
+        })
+        .catch(error => {
+            console.error('Error fetching the markdown file:', error);
+            contentContainer.innerHTML = '<p>Failed to load the reading list.</p>';
+        });
 });
