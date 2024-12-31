@@ -61,5 +61,12 @@
         "location": "223-407",
         "presenter": "EG",
         "topic": "TBD"
+    },
+    {
+        "date": "March 6, 2025",
+        "time": "12:00 - 13:30",
+        "location": "223-407",
+        "presenter": "이대건",
+        "topic": "Machine Learning"
     }
 ]
