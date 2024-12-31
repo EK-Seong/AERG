@@ -3,40 +3,63 @@
         "date": "January 9, 2025",
         "time": "12:00 - 13:30",
         "location": "223-406",
-        "presenter": "TBD",
+        "presenter": "김종원",
+        "topic": "Bartik Instrument"
+    },
+    {
+        "date": "January 9, 2025",
+        "time": "12:00 - 13:30",
+        "location": "223-406",
+        "presenter": "EG",
         "topic": "TBD"
-
     },
     {
         "date": "January 23, 2025",
         "time": "12:00 - 13:30",
         "location": "223-406",
-        "presenter": "TBD",
+        "presenter": "최강우",
+        "topic": "Synthetic DiD"
+    },
+    {
+        "date": "January 23, 2025",
+        "time": "12:00 - 13:30",
+        "location": "223-406",
+        "presenter": "EG",
         "topic": "TBD"
-
     },
     {
         "date": "February 6, 2025",
         "time": "12:00 - 13:30",
         "location": "223-406",
-        "presenter": "TBD",
-        "topic": "TBD"
-
+        "presenter": "최윤혁",
+        "topic": "Forecasting"
+    },
+    {
+        "date": "February 6, 2025",
+        "time": "12:00 - 13:30",
+        "location": "223-406",
+        "presenter": "김민석",
+        "topic": "Machine Labor"
     },
     {
         "date": "February 20, 2025",
         "time": "12:00 - 13:30",
         "location": "223-406",
-        "presenter": "TBD",
+        "presenter": "EG",
         "topic": "TBD"
-
+    },
+    {
+        "date": "February 20, 2025",
+        "time": "12:00 - 13:30",
+        "location": "223-406",
+        "presenter": "성은규",
+        "topic": "Double Machine Learaning"
     },
     {
         "date": "March 6, 2025",
         "time": "12:00 - 13:30",
-        "location": "223-406",
-        "presenter": "TBD",
+        "location": "223-407",
+        "presenter": "EG",
         "topic": "TBD"
-
     }
 ]
