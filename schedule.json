@@ -1,17 +1,11 @@
 [
+
     {
         "date": "January 9, 2025",
         "time": "12:00 - 13:30",
         "location": "223-406",
-        "presenter": "김종원",
-        "topic": "Bartik Instrument"
-    },
-    {
-        "date": "January 9, 2025",
-        "time": "12:00 - 13:30",
-        "location": "223-406",
-        "presenter": "EG",
-        "topic": "TBD"
+        "presenter": "서명철, 박기량",
+        "topic": "Synthetic DiD"
     },
     {
         "date": "January 23, 2025",
@@ -24,8 +18,8 @@
         "date": "January 23, 2025",
         "time": "12:00 - 13:30",
         "location": "223-406",
-        "presenter": "EG",
-        "topic": "TBD"
+        "presenter": "방슬기찬, 손세호",
+        "topic": "Bartik IV"
     },
     {
         "date": "February 6, 2025",
@@ -45,8 +39,8 @@
         "date": "February 20, 2025",
         "time": "12:00 - 13:30",
         "location": "223-406",
-        "presenter": "EG",
-        "topic": "TBD"
+        "presenter": "방슬기찬, 박기량",
+        "topic": "Random Forest"
     },
     {
         "date": "February 20, 2025",
@@ -59,8 +53,8 @@
         "date": "March 6, 2025",
         "time": "12:00 - 13:30",
         "location": "223-407",
-        "presenter": "EG",
-        "topic": "TBD"
+        "presenter": "서명철, 손세호",
+        "topic": "Threshold Estimation"
     },
     {
         "date": "March 6, 2025",
