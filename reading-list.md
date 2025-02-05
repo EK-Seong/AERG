@@ -28,3 +28,7 @@
 
 #### Forecasting
  - Goulet Coulombe, P., Leroux, M., Stevanovic, D., & Surprenant, S. (2022). How is machine learning useful for macroeconomic forecasting?. *Journal of Applied Econometrics*, 37(5), 920-964.
+ - Arro-Cannarsa, Milen, & Rolf Scheufele. (2024). ”Nowcasting GDP: what are the gains from machine learning algorithms?” *Swiss National Bank(SNB) Working Papers* 2024-06.
+ - Bok, Brandyn, Daniele Caratelli, Domenico Giannone, Argia M. Sbordone, & Andrea Tambalotti. (2018). ”Macroeconomic Nowcasting and Forecasting with Big Data.” *Annual Review of Economics*, 10: 615-643.
+ - Diebold, Francis X., & Roberto S. Mariano. (1995). ”Comparing predictive accuracy.” *Journal of Business & Economic Statistics*, 13(3):253-263.
+ - Kapetanios, George, & Fotis Papailias. (2018). ”Big Data & Macroeconomic Nowcasting: Methodological Review.” *ESCoE Discussion Paper* 2018-12.
