@@ -39,28 +39,28 @@
         "date": "February 20, 2025",
         "time": "12:00 - 13:30",
         "location": "223-406",
-        "presenter": "방슬기찬, 박기량",
-        "topic": "Random Forest"
+        "presenter": "성은규",
+        "topic": "Double Machine Learning"
     },
     {
         "date": "February 20, 2025",
         "time": "12:00 - 13:30",
         "location": "223-406",
-        "presenter": "성은규",
-        "topic": "Double Machine Learning"
+        "presenter": "방슬기찬, 박기량",
+        "topic": "Random Forest"
     },
     {
         "date": "March 6, 2025",
         "time": "12:00 - 13:30",
         "location": "223-407",
         "presenter": "서명철, 손세호",
-        "topic": "TBD"
+        "topic": "Factor Augmented VAR"
     },
     {
         "date": "March 6, 2025",
         "time": "12:00 - 13:30",
         "location": "223-407",
         "presenter": "이대건",
-        "topic": "TBD"
+        "topic": "Generalized Random Forest"
     }
 ]
