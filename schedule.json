@@ -53,14 +53,14 @@
         "date": "March 6, 2025",
         "time": "12:00 - 13:30",
         "location": "223-407",
-        "presenter": "서명철, 손세호",
-        "topic": "Factor Augmented VAR"
+        "presenter": "이대건",
+        "topic": "Generalized Random Forest"
     },
     {
         "date": "March 6, 2025",
         "time": "12:00 - 13:30",
         "location": "223-407",
-        "presenter": "이대건",
-        "topic": "Generalized Random Forest"
+        "presenter": "서명철, 손세호",
+        "topic": "Factor Augmented VAR"
     }
 ]
